@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter
-import sqlite3
 
 ###################################################################
 # Image Preprocessing Functions
