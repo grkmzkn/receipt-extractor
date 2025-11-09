@@ -335,7 +335,7 @@ def main():
         if uploaded_file is not None:
             # Display uploaded image
             image = PIL.Image.open(uploaded_file)
-            st.image(image, caption="Uploaded Receipt", use_column_width=True)
+            st.image(image, caption="Uploaded Receipt", use_container_width=True)
             
             # Analysis button
             if st.button("🚀 Analyze Receipt", key="analyze_btn"):
