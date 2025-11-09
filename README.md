@@ -155,12 +155,6 @@ receipt-extractor/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Support
-
-- **Issues:** [GitHub Issues](https://github.com/grkmzkn/receipt-extractor/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/grkmzkn/receipt-extractor/discussions)
-- **Email:** [Your Email]
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** - For providing powerful text extraction capabilities
