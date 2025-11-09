@@ -2,6 +2,9 @@
 
 An advanced AI-powered application that extracts information from Turkish receipts using Google Gemini 2.5 Flash. Features both command-line interface and modern web interface built with Streamlit.
 
+## Example Output
+<img width="1908" height="1028" alt="image" src="https://github.com/user-attachments/assets/72b44f0a-6dd4-46c6-b552-8bc28864d285" />
+
 ![Receipt Extractor](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)
 ![Gemini AI](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-green.svg)
